@@ -1,0 +1,6 @@
+---
+Bug-Database: https://github.com/pelletier/go-toml/issues
+Bug-Submit: https://github.com/pelletier/go-toml/issues/new
+Repository: https://github.com/pelletier/go-toml.git
+Repository-Browse: https://github.com/pelletier/go-toml
+Security-Contact: https://github.com/pelletier/go-toml/tree/HEAD/SECURITY.md
